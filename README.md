@@ -1,4 +1,4 @@
-# E-Commerce-App
+# Loan Approval Prediction
 
 The Loan Status is heavily dependent on the Credit History for Predictions
 The Logistic Regression algorithm gives us the maximum Accuracy (79% approx
