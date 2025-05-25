@@ -1,0 +1,7 @@
+Gender,Married,Dependents,Education,Self_Employed,ApplicantIncome,CoapplicantIncome,LoanAmount,Loan_Amount_Term,Credit_History,Property_Area
+1,0,0,1,0,5849,0,146.412162,360,1,2
+0,1,2,1,0,1378,1881,167,360,1,2
+1,0,0,1,0,2366,2531,136,360,1,1
+1,0,0,1,1,2237,0,63,480,0,1
+1,0,0,0,0,4885,0,48,360,1,0
+1,0,0,1,0,12000,0,164,360,1,1
